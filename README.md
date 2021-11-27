@@ -1,9 +1,9 @@
 # Juego hecho con python (pygame) para trabajo final de Programacion I
 
-# 1. Clonar repositorio
+### 1. Clonar repositorio
 + git clone repo
-# 2. Moverse al directorio clonado e instalar virtualenv (o similar)
-+ pip install virtualenv
+### 2. Moverse al directorio clonado e instalar virtualenv (o similar)
+` pip install virtualenv `
 # 3. Crear un virtual enviroment para el proyecto
 + python3 -m venv pygame
 # 4. Activar el virtual enviroment
